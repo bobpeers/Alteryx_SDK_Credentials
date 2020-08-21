@@ -19,8 +19,8 @@ Sucessful operations will be output to the O-Output. The output is in two column
 ## Usage
 This workflow demonstrates the tool in use and the output data. The name of the saevd credential is enter and the workflow returns the username and poassword associated with the key.
 
-![alt text](https://github.com/bobpeers/Alteryx_SDK_SystemInfo/blob/master/images/Credentials_workflow.png "Credentials Workflow")
+![alt text](https://github.com/bobpeers/Alteryx_SDK_Credentials/blob/master/images/Credentials_workflow.png "Credentials Workflow")
 
 Credentials must be save din the __Generic Credentials__ section of Windows Credentials Manager as shown below.
 
-![alt text](https://github.com/bobpeers/Alteryx_SDK_SystemInfo/blob/master/images/Credential_Manager.png "Windows Credential Manager")
+![alt text](https://github.com/bobpeers/Alteryx_SDK_Credentials/blob/master/images/Credential_Manager.png "Windows Credential Manager")

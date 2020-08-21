@@ -17,7 +17,7 @@ This tool has no inputs. Place tool on the canvas and configure the tools with t
 Sucessful operations will be output to the O-Output. The output is in two columns, saved username and password.
 
 ## Usage
-This workflow demonstrates the tool in use and the output data. The name of the saevd credential is enter and the workflow returns the username and password associated with the key.
+This workflow demonstrates the tool in use and the output data. The name of the saved credential is entered and the workflow returns the username and password associated with the key.
 
 ![alt text](https://github.com/bobpeers/Alteryx_SDK_Credentials/blob/master/images/Credentials_workflow.png "Credentials Workflow")
 

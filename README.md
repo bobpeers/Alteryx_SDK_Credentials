@@ -1,5 +1,5 @@
 # Alteryx_SDK_Credentials
-Alteryx tool to retrieve saved credentials from Windows Credentials Manager
+Alteryx tool to retrieve saved credentials from Windows Credentials Manager. This avoids the issue of having hard coded usernames and password in workflows for use in APIs for example.
 
 ## Installation
 Download the yxi file and double click to install in Alteyrx. The tool will be installed in the __Developer__ category.

@@ -4,7 +4,7 @@ Alteryx tool to retrieve saved credentials from Windows Credentials Manager
 ## Installation
 Download the yxi file and double click to install in Alteyrx. The tool will be installed in the __Developer__ category.
 
-![alt text](https://github.com/bobpeers/Alteryx_SDK_Credentials/blob/master/images/systeminfo.png "Alteryx Developer Category")
+![alt text](https://github.com/bobpeers/Alteryx_SDK_Credentials/blob/master/images/Credentials_toolbar.png "Alteryx Developer Category")
 
 ## Requirements
 
@@ -17,7 +17,10 @@ This tool has no inputs. Place tool on the canvas and configure the tools with t
 Sucessful operations will be output to the O-Output. The output is in two columns, saved username and password.
 
 ## Usage
-This workflow demonstrates the tool in use and the output data.
+This workflow demonstrates the tool in use and the output data. The name of the saevd credential is enter and the workflow returns the username and poassword associated with the key.
 
-![alt text](https://github.com/bobpeers/Alteryx_SDK_SystemInfo/blob/master/images/systeminfo_workflow.png "System Info Workflow")
+![alt text](https://github.com/bobpeers/Alteryx_SDK_SystemInfo/blob/master/images/Credentials_workflow.png "Credentials Workflow")
 
+Credentials must be save din the __Generic Credentials__ section of Windows Credentials Manager as shown below.
+
+![alt text](https://github.com/bobpeers/Alteryx_SDK_SystemInfo/blob/master/images/Credential_Manager.png "Windows Credential Manager")
